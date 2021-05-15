@@ -1,6 +1,6 @@
 # AdvancedBusinessAnalytics
 
-# Open notebook for interesting stuff!
+## Open notebook for interesting stuff!
 
 Advanced Business Analytics (42578) DTU Course - Made by David Ipsen, Frederik Hansen and Jonas Christophersen
 
