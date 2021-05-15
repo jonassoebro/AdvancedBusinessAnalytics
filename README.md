@@ -1,5 +1,5 @@
 # AdvancedBusinessAnalytics
-Advanced Business Analytics (42578) DTU Course
+Advanced Business Analytics (42578) DTU Course - Made by David Ipsen, Frederik Hansen and Jonas Christophersen
 
 Problem: Are the Danish news biased in sentiment by those who bring them?
 
